@@ -1,0 +1,42 @@
+body {
+  /* background-image: url(./astronomy.jpg); */
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.app {
+  padding: 20px;
+}
+
+.form-input {
+  margin: 10px 0;
+}
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 0.37rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  outline: none;
+}
+.display-post {
+  border: 1px solid black;
+  margin: 5px 0px;
+  border-radius: none;
+  padding: 10px;
+}
+form {
+  width: 50%;
+}
+.form-input input,
+.form-input textarea {
+  width: 100%;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  border: 1px solid lightgray;
+  padding: 0.375rem 0.75rem;
+  outline: none;
+}
